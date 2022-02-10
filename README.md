@@ -1,2 +1,2 @@
-# practice-bot
-First submarine
+# dev environment repo
+repo for development environments
