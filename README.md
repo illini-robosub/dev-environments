@@ -1,2 +1,0 @@
-# practice-bot
-First submarine
