@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
-source /opt/ros/dashing/setup.bash
-/usr/local/bin/aztarna $@
+source /opt/ros/galactic/setup.bash
+/usr/local/bin/robosub $@
